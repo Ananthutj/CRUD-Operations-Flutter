@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898168480745",
+    "project_id": "sample-d919a",
+    "storage_bucket": "sample-d919a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898168480745:android:e3808b51916e6893e7e178",
+        "android_client_info": {
+          "package_name": "com.example.crossroads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898168480745-5mc3nq1cg6p6fds8pomar45lt7colru5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9kf2KYdVaVjW8VQVxrCC8j3636gDApE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898168480745-5mc3nq1cg6p6fds8pomar45lt7colru5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
